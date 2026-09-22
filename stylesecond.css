@@ -1,0 +1,76 @@
+body{
+    background-color: #3173FF;
+    background-image:url(img_index/bgupdated.png);
+}
+
+.aboutme{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.alarm{
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-end;  
+}
+
+.movieone{
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;  
+}
+
+.school{
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-end;  
+}
+
+.waymo{
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;  
+}
+
+.bird{
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-end;  
+}
+
+.ytshorts{
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;  
+}
+
+.home{
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-end;  
+}
+
+.restaurant{
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;  
+}
+
+.ytfoodshorts{
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-end;  
+}
+
+.movietwo{
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;  
+}
+
+.housemd{
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-end;  
+}
