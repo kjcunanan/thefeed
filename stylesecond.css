@@ -8,6 +8,15 @@ body{
     cursor: url("img_secondpage/hookcursor.png");
 }
 
+p{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: fantasy;
+    font-size: 50px;
+    color: white;
+}
+
 .aboutme{
     display: flex;
     flex-direction: row;
