@@ -1,6 +1,11 @@
+*{
+    cursor: url("img_secondpage/hookcursor.png"), auto;
+}
+
 body{
     background-color: #3173FF;
-    background-image:url(img_index/bgupdated.png);
+    background-image:url(img_secondpage/bgupdated.png);
+    cursor: url("img_secondpage/hookcursor.png");
 }
 
 .aboutme{
